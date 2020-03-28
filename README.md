@@ -5,8 +5,10 @@
 
 
 # **Important Announcement**
+The player variable has been removed & dev tools have been patched none of these hacks work. However, we may be able to manipulate the game cross-site. Please be patient untill further notice. again if you have any questions derect them to our [Discord](https://discord.gg/9cKMgMv)
 
-`Phaser.GAMES` has been patched, and it is being replaced by `[0] Phaser.CanvasPool.pool[0]` for your convenience.
+NOTE: This means Will's Cheat Menu is also no longer functional.
+
 
 # Links
 
